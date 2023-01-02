@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background-color: green;
+}
+
+fieldset{
+    height: 500px;
+    width: 500px;
+    margin-left:380px;
+    margin-top: 50px;
+    border-radius: 500px;
+    border-width: 20px;
+    border-left-color: skyblue;
+    border-top-color: skyblue;
+    border-right-color: skyblue;
+    border-bottom-color: skyblue;
+}
+
+.logo1{
+    margin-left: 190px;
+    margin-top: 40px;
+    font-size: xx-large;
+    color: skyblue;
+    font-family: Manrope ,sans-serif;
+}
+
+.nam{
+    margin-left: 200px;
+    margin-top: 20px;
+    color: skyblue;
+    font-family: Manrope ,sans-serif;
+    font-size: x-larger;
+}
+
+.box{
+    height: 25px;
+    width: 190px;
+    background-color: skyblue;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+.box2{
+    margin-left: 150px;
+    margin-top: 20px;
+    background-color: skyblue;
+}
+
+.butt{
+    margin-left: 180px;
+    background-color: skyblue;
+    height: 25px;
+    width: 80px;
+    border-radius:7px;
+}
+
+.butt1{
+    display: block;
+    text-decoration-line: none;
+    margin-top: 10px;
+    color: white;
+    font-weight: bolder;
+    font-family: Manrope ,sans-serif;
+    text-align: center;
+    padding-top: 5px;
+}
